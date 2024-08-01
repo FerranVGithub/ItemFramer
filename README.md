@@ -54,5 +54,5 @@ Step by step Guide:
  * Not working?
    * Try typing ``/function itemframer:setup`` In Console or in chat as an operator
    * Try typing ``/reload`` (in singleplayer) and if on a server also try restarting the server
-   * Try typing ``/datapack enable "file/itemframer"`` In console or in chat as an operator
+   * Try typing ``/datapack enable "file/1.21_ItemFramer_v(version goes here).zip"`` In console or in chat as an operator
    
