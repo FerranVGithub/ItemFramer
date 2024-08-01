@@ -3,8 +3,9 @@
 
 
 
-Download zip:
-[1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458167/1.21_ItemFramer_v1.0.0.zip)
+Download zip: [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
+
+
 ##
 
 Setting it up:
