@@ -7,30 +7,45 @@ Download zip:
 [ItemFramer.zip](https://github.com/user-attachments/files/16457227/ItemFramer.zip)
 
 Setting it up:
-
+##
 Step by step Guide:
   * Adding it to a new world:
 
-      * **Step 1**:
+      * **Step 1**:      
         Press ``Create New World`` and then ``More`` 
         ![image](https://github.com/user-attachments/assets/744d5d73-6880-47df-afd0-8aa33476e424)
+
   
   
-  
-    * **Step 2**:    
+    * **Step 2**:       
         Press ``Data Packs``
         ![image](https://github.com/user-attachments/assets/611d2aaf-60d2-4eb7-ac83-d42aa00c7db4)
-  
-  
-   
-    * **Step 3**:
+        
+          
+              
+    * **Step 3**:          
         Press ``Open Pack Folder`` and drop the ``.zip`` in there
         ![image](https://github.com/user-attachments/assets/39b6703b-3cf5-4407-8a69-289708bb7f14)
+        
+         
+         
+    * **Step 4**:          
+        Now the datapack should appear in the list. Just simply press the arrow to insert it into your world and hit ``Done`` to complete
+        ![image](https://github.com/user-attachments/assets/06f84190-27f0-430a-82c3-e5b5d9950073)
+
+
+
+  * Adding it to an existing world:
+     * **Step 1**:
+         Locate your ``saves`` folder
+
+    * **Step 2**:
+         Open folder of the world you want the datapack to be in
+
+    * **Step 3**:
+         Locate the ``datapacks`` folder inside your world folder
+
+    * **Step 4**:
+         Drop the ``.zip`` into the datapacks folder
+
       
-
-
-
-      
-
-
-
