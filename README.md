@@ -5,9 +5,11 @@
 
 Download zip:
 [ItemFramer.zip](https://github.com/user-attachments/files/16457227/ItemFramer.zip)
+##
 
 Setting it up:
-##
+
+
 Step by step Guide:
   * Adding it to a new world:
 
@@ -33,7 +35,7 @@ Step by step Guide:
         Now the datapack should appear in the list. Just simply press the arrow to insert it into your world and hit ``Done`` to complete
         ![image](https://github.com/user-attachments/assets/06f84190-27f0-430a-82c3-e5b5d9950073)
 
-
+##
 
   * Adding it to an existing world:
      * **Step 1**:
@@ -47,5 +49,10 @@ Step by step Guide:
 
     * **Step 4**:
          Drop the ``.zip`` into the datapacks folder
+##
 
-      
+ * Not working?
+   * Try typing ``/function itemframer:setup`` In Console or in chat as an operator
+   * Try typing ``/reload`` (in singleplayer) and if on a server also try restarting the server
+   * Try typing ``/datapack enable "file/itemframer"`` In console or in chat as an operator
+   
