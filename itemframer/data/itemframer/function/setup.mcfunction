@@ -1,0 +1,2 @@
+scoreboard objectives add ItemFramer trigger
+function itemframer:enable_trigger
