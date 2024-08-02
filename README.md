@@ -2,10 +2,6 @@
 ### By: FerranV
 
 
-#### Download: 
-[1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
-
-
 ##
 ## Discription:
    This is a datapack that adds a custom item with which you can make item frames invisible by simple right clicking on it.
