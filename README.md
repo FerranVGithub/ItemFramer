@@ -1,7 +1,6 @@
 # [1.21] ItemFramer
 ## By: FerranV
 
-[![Discord](https://img.shields.io/discord/660567679458869252?label=Discord&logo=discord)](https://discord.gg/mpnhost)
 
 Download zip: [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
 
