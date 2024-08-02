@@ -7,7 +7,20 @@ Download zip: [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/f
 
 
 ##
+## Discription:
+   This is a datapack that adds a custom item with which you can make item frames invisible by simple right clicking on it.
 
+   * **Obtaining the ItemFramer item**:
+
+     * Recipe:
+       You can simply craft it like this, or either type ``/trigger ItemFramer`` to obtain the ItemFramer item.
+       ![image](https://github.com/user-attachments/assets/875b2657-c7dc-4702-a1e4-30e9cda8bff6)
+
+
+     * Usage:
+       Simply right click on any item frame that has an item in it with the custom ItemFramer stick ^ to make the item frame turn invisible
+       
+  
 ## Setting it up:
 
 
@@ -60,14 +73,5 @@ Step by step Guide:
 ##
 
 
-## Discription:
-   This is a datapack that adds a custom item with which you can make item frames invisible by simple right clicking on it.
 
-   * **Obtaining the ItemFramer item**:
-
-     * Recipe:
-       You can simply craft it like this, or either type ``/trigger ItemFramer`` to obtain the ItemFramer item.
-       ![image](https://github.com/user-attachments/assets/875b2657-c7dc-4702-a1e4-30e9cda8bff6)
-       
-  
    
