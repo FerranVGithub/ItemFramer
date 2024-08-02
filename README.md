@@ -77,4 +77,7 @@ Step by step Guide:
 
 
 ## Versions:
-* [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
+* ### 1.21 Version 1.0.0:
+    * [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
+
+##
