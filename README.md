@@ -1,6 +1,8 @@
 # [1.21] ItemFramer
 ### By: FerranV
 
+### Latest Release download:
+[1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
 
 ##
 ## Discription:
@@ -71,3 +73,8 @@ Step by step Guide:
 * Still expierencing issues?
   * Create a discussion in the discussion section explaining what issues you are having and what version of the datapack you are using.
 ##
+
+
+
+# Versions:
+* [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
