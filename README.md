@@ -69,6 +69,8 @@ Step by step Guide:
    * Try typing ``/reload`` (in singleplayer) and if on a server also try restarting the server
    * Try typing ``/datapack enable "file/1.21_ItemFramer_v(version goes here).zip"`` In console or in chat as an operator
 
+* Still expierencing issues?
+  * Create a discussion in the discussion section explaining what issues you are having and what version of the datapack you are using.
 ##
 
    
