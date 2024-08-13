@@ -71,7 +71,7 @@ Step by step Guide:
 
 
 * Still expierencing issues?
-  * Create a discussion in the discussion section explaining what issues you are having and what version of the datapack you are using.
+  * Create an issue thread in the issues section explaining what issues you are having and what version of the datapack you are using.
 ##
 
 
