@@ -2,7 +2,8 @@
 ### By: FerranV
 
 ### Latest Release download:
-[1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
+[1.21_ItemFramer_v1.1.0.zip](https://github.com/user-attachments/files/16613536/1.21_ItemFramer_v1.1.0.zip)
+
 
 ##
 ## Discription:
@@ -15,9 +16,11 @@
        ![image](https://github.com/user-attachments/assets/875b2657-c7dc-4702-a1e4-30e9cda8bff6)
 
 
-     * Usage:
-       Simply right click on any item frame that has an item in it with the custom ItemFramer stick ^ to make the item frame turn invisible
-       
+## Patchnotes:
+  * V1.1.0: You can now left click on an item frame with the *ItemFramer* item to lock the item frame. This makes it so that you cannot rotate the item or take out the item out of the item frame until you unlock it again
+  
+  
+  * V1.0.0: First release, you can right click on any item frame that has an item in it with the custom *ItemFramer* item to make the item frame invisible     
   
 ## Setting it up:
 
@@ -77,6 +80,10 @@ Step by step Guide:
 
 
 ## Versions:
+* ### 1.21 Version 1.1.0:
+     * [1.21_ItemFramer_v1.1.0.zip](https://github.com/user-attachments/files/16613539/1.21_ItemFramer_v1.1.0.zip)
+
+
 * ### 1.21 Version 1.0.0:
     * [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
 
