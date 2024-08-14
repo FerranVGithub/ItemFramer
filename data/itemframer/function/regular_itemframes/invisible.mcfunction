@@ -1,0 +1,2 @@
+data modify entity @s Invisible set value true
+execute at @s as @e[type=minecraft:interaction,distance=..0.5,nbt={Tags:["itemframer:interaction"], interaction:{}}] run data remove entity @s interaction
