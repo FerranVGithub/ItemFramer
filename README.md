@@ -79,7 +79,7 @@ Step by step Guide:
 
 
 
-## Versions:
+## Releases:
 * ### 1.21 Version 1.1.0:
      * [1.21_ItemFramer_v1.1.0.zip](https://github.com/user-attachments/files/16613539/1.21_ItemFramer_v1.1.0.zip)
 
