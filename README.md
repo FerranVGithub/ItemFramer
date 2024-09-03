@@ -1,11 +1,10 @@
 # [1.21] ItemFramer
 ### By: FerranV
 
-### Latest Release download:
-[1.21_ItemFramer_v1.1.0.zip](https://github.com/user-attachments/files/16613536/1.21_ItemFramer_v1.1.0.zip)
+#### Download on Modrinth:
+Modrinth: Coming Soon
 
 
-##
 ## Discription:
    This is a datapack that adds a custom item with which you can make item frames invisible by simple right clicking on it.
 
@@ -79,12 +78,3 @@ Step by step Guide:
 
 
 
-## Releases:
-* ### 1.21 Version 1.1.0:
-     * [1.21_ItemFramer_v1.1.0.zip](https://github.com/user-attachments/files/16613539/1.21_ItemFramer_v1.1.0.zip)
-
-
-* ### 1.21 Version 1.0.0:
-    * [1.21_ItemFramer_v1.0.0.zip](https://github.com/user-attachments/files/16458436/1.21_ItemFramer_v1.0.0.zip)
-
-##
