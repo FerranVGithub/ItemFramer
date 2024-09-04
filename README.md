@@ -3,7 +3,7 @@
 
 ### Datapack download:
 * Modrinth: Under review
-* CurseForge: Under review
+
 
 ### If you are expierencing issues try going through these steps before submitting an issue in the the issues section:
    * Try typing ``/function itemframer:setup`` In Console or in chat as an operator
