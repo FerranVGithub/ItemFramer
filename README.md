@@ -2,7 +2,7 @@
 ## By FerranV
 
 ### Datapack download:
-* Modrinth: Under review
+* Modrinth: https://modrinth.com/datapack/itemframer
 
 
 ### If you are expierencing issues try going through these steps before submitting an issue in the the issues section:
