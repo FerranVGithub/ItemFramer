@@ -10,5 +10,5 @@
    * Try typing ``/reload`` (in singleplayer) and if on a server also try restarting the server
    * Try typing ``/datapack enable "file/1.21_ItemFramer_v(version goes here).zip"`` In console or in chat as an operator
 
-   #### If you are still experiencing issues you may now submit an issue in the issues section in this github repo.
+   If you are still experiencing issues you may now submit an issue in the issues section in this github repo.
    You may also post a suggestion for the datapack in the issues section with the label 'Enhancement'.
